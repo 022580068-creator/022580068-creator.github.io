@@ -74,18 +74,8 @@
 
     <div class="container">
         <h1>Hi, I'm <span>Asya.</span></h1>
-        <p class="subtitle">International Relations Student & Data Analyst in Training</p>
-        
-        <div class="section">
-            <h2>📊 Data & Skills</h2>
-            <p>Successfully completed the <b>Introduction to SQL</b> track on DataCamp. Combining global politics with data analytics.</p>
-            <p><i>Next stop: Data Literacy!</i></p>
-        </div>
-
-        <div class="section">
-            <h2>🎬 Beyond the Desk</h2>
-            <p>Analyzing global affairs by day, exploring Christopher Nolan & Jake Gyllenhaal mind-benders by night.</p>
-            <p>Find me playing 1-minute bullet games on Chess.com: <a href="https://www.chess.com/member/asyawinchester" target="_blank">asyawinchester</a></p>
+        <p class="subtitle">International Relations Student </p>
+        <p>Find me playing 1-minute bullet games on Chess.com: <a href="https://www.chess.com/member/asyawinchester" target="_blank">asyawinchester</a></p>
         </div>
     </div>
 
