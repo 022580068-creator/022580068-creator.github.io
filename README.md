@@ -75,9 +75,9 @@
     <div class="container">
         <h1>Hi, I'm <span>Asya.</span></h1>
         <p class="subtitle">International Relations Student </p>
-        <p>Find me playing 1-minute bullet games on Chess.com: <a href="https://www.chess.com/member/asyawinchester" target="_blank">asyawinchester</a></p>
+        <p>Find me and play on Chess.com: <a href="https://www.chess.com/member/asyawinchester" target="_blank">asyawinchester</a></p>
         </div>
-    </div>
+    
 
 </body>
 </html>
