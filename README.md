@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,19 +76,13 @@
         <h1>Hi, I'm <span>Asya.</span></h1>
         <p class="subtitle">International Relations Student </p>
         <p>Find me and play on Chess.com: <a href="https://www.chess.com/member/asyawinchester" target="_blank">asyawinchester</a></p>
-        <div class="container">
-        <h1>Hi, I'm <span>Asya.</span></h1>
-        <p class="subtitle">International Relations Student </p>
-        <p>Find me and play on Chess.com: <a href="https://www.chess.com/member/asyawinchester" target="_blank">asyawinchester</a></p>
         
         <div class="section">
             <h2>📱 Contact</h2>
             <p>Instagram: <a href="https://www.instagram.com/asyattkkk" target="_blank">@asyattkkk</a></p>
-            <p>Email: <a href="mailto:"asyaozturkk16@gmail.com">Bana e-posta gönder</a></p>
+            <p>Email: <a href="mailto:asyaozturkk16@gmail.com">asyaozturkk16@gmail.com</a></p>
         </div>
     </div>
-        </div>
-    
 
 </body>
 </html>
